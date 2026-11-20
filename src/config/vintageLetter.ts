@@ -1,6 +1,6 @@
 export const VINTAGE_LETTER_CONFIG = {
   /** Small handwritten opening at the top of the letter */
-  opening: "There are a few things I've always wanted to say...",
+  opening: 'Dear PJ,',
 
   /** Base handwriting speed per character (ms, naturally varied per character) */
   charDelayMs: 36,
@@ -15,14 +15,15 @@ export const VINTAGE_LETTER_CONFIG = {
    * Handwritten letter thoughts lines.
    */
   lines: [
-    "I don't really know how to put everything into words, but I do know that I'm glad we got to share those moments.",
-    'Sometimes I think about our little moments and end up smiling at the simplest things.',
-    "I may not express everything, and sometimes I don't even know what to say, but that doesn't mean I don't feel it.",
-    'But I genuinely hope we never change the little things that make us who we are.',
-    "And if there's one thing I want you to know, it's that I'm a little bit happy.",
+    'Hey PJ,',
+    'You know, sometimes I wonder how so many random little things turn into memories.',
+    'Our conversations, those discussions, random updates, pictures of food, and all those times we ended up talking about something completely different from what we started with.',
+    "I don't think every moment needs a reason to be special. Sometimes it's just the people, the conversations, and the little things that make them memorable.",
+    "And honestly, that's what I wanted to put together here.",
+    "So, PJ, You might find a few things you remember, and maybe a few things you've forgotten.",
+    'I just try to bring all these little memories together in one place.',
   ],
 
   /** Handwritten-style closing near the bottom */
-  closing:
-    "That's all I wanted to say, at least for now. ♡ Just forget it, they're just thoughts.",
+  closing: '– Chikku',
 } as const;
