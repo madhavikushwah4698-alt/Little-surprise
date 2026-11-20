@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix A Little Surprise",
+  "description": "A private, password-protected birthday surprise website with warm editorial typography and keepsake memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
