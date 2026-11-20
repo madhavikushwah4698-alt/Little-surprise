@@ -1,6 +1,6 @@
 import crypto from 'node:crypto';
 import express, { type Request, type Response } from 'express';
-import { SURPRISE_PAYLOAD } from '../src/config/surprisePayload';
+import { SURPRISE_PAYLOAD } from '../src/config/surprisePayload.js';
 
 const app = express();
 app.disable('x-powered-by');

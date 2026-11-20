@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import dotenv from 'dotenv';
-import { SURPRISE_PAYLOAD } from './src/config/surprisePayload';
+import { SURPRISE_PAYLOAD } from './src/config/surprisePayload.js';
 import express from 'express';
 import type { Request, Response } from 'express';
 import { createServer as createViteServer } from 'vite';
