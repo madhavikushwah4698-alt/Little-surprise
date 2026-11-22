@@ -12,7 +12,7 @@ export const STORY_CHAPTER_CONFIG = {
   /** Page 4: Editable Hindi verse heading, poem, and closing line */
   receivedPoemHeading: 'Ek waqt',
   receivedPoemText:
-    'एक वक्त था जब अनजान थे हम,\nकि एक वक्त था जब अनजान थे हम,\nअब एक समय है जब जान गए हम,\nतुमसे मिलके किस्मत को पहचान गए हैं हम।\n\nसाथ हो तो बातों में मना लेती हो,\nनाराज़ होती हो जब, सिर गुस्सा सजा लेती हो,\nबट जैसी हो, मुझे वैसी ही अच्छी लगती हो।',
+    'एक वक्त था जब अनजान थे हम,\nकि एक वक्त था जब अनजान थे हम,\nअब एक समय है जब जान गए हम,\nतुमसे मिलके किस्मत को पहचान गए हैं हम।\n\nसाथ हो तो बातों में मना लेती हो,\nनाराज़ होती हो जब, सर गुस्सा सजा लेती हो,\nबट जैसी हो, मुझे वैसी ही अच्छी लगती हो।',
   receivedPoemClosingLine: 'Some words deserve to be kept',
 
   /** Page 5: Additional editable poem in the same style */
